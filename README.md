@@ -4,7 +4,9 @@ A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://git
 
 Box follows the cursor at a constant speed as long as the cursor is in the screen and stops in its tracks when its not. 
 
-The background colour changes to green when they meet 
+The background colour changes to green when they meet.
+
+Demonstrates handling of the 'mouse-exit' event on desktop environments using platform hooks 
 
 ![Screenshot (132).png](assets/Screenshot%20%28132%29.png)
 

@@ -2,7 +2,14 @@
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+Box follows the cursor at a constant speed as long as the cursor is in the screen and stops in its tracks when its not. 
+
+The background colour changes to green when they meet 
+
+![Screenshot (132).png](assets/Screenshot%20%28132%29.png)
+
+
+![Screenshot (133).png](assets/Screenshot%20%28133%29.png)
 
 ## Platforms
 
